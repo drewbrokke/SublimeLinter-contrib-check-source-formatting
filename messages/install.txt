@@ -1,0 +1,10 @@
+SublimeLinter-contrib-check-source-formatting
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to check-source-formatting.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Drew Brokke/SublimeLinter-contrib-check-source-formatting
