@@ -1,8 +1,5 @@
 SublimeLinter-contrib-check-source-formatting
 ================================
-
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-check-source-formatting.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-check-source-formatting)
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [check-source-formatting](https://www.npmjs.com/package/check-source-formatting), a linter specific to Liferay's frontend coding style.
 
 ## Installation
