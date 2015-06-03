@@ -22,7 +22,7 @@ class CheckSourceFormatting(NodeLinter):
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
     version_requirement = '>= 1.0'
-    regex = r'^.+?(?P<line>\d+): (?P<message>.+)'
+    regex = r'^.+?(?P<line>\d+).*?: (?P<message>.+)'
     multiline = False
     line_col_base = (1, 1)
     tempfile_suffix = '-'
