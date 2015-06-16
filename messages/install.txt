@@ -7,4 +7,4 @@ This linter plugin for SublimeLinter provides an interface to check-source-forma
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/Drew Brokke/SublimeLinter-contrib-check-source-formatting
+https://github.com/DrewBrokke/SublimeLinter-contrib-check-source-formatting
